@@ -1,4 +1,4 @@
-# Data-viz.
+# Customer dashboard.
 this is a tableau dashboard for customers orders 
 
 
