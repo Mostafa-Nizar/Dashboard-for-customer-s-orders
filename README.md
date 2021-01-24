@@ -1,4 +1,4 @@
-# Customer dashboard.
+# Customers dashboard.
 this is a tableau dashboard for customers orders in europe
 
 
